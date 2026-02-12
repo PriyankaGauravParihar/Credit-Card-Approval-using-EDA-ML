@@ -1,0 +1,1 @@
+This project builds a machine learning model to determine whether a credit card application should be approved or not. The prediction is made using applicant information such as income, employment details, age, and credit history.
